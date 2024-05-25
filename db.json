@@ -1,0 +1,19 @@
+{
+  "films": [
+    {
+      "id": "2",
+      "judul": "Reza Lampu Sein",
+      "genre": "Action"
+    },
+    {
+      "id": "3",
+      "judul": "Tukang Haji Naik Bubur",
+      "genre": "Thriller"
+    },
+    {
+      "id": null,
+      "judul": "Suzana Beranak Dalam Kubur ",
+      "genre": "Horror"
+    }
+  ]
+}
